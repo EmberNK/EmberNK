@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 
 # Hello World!, I'm EmberNK, a VietNam Web Developer 👋🏼:
 👨🏼‍🎓 Studing as a web developer since 2022
